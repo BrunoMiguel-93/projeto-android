@@ -47,6 +47,8 @@ header > h1 {
     color: white;
     font-size: 3em;
     text-shadow: 1px 1px 1px black;
+    margin: auto;
+    display: block;
 }
 
 header > p {
